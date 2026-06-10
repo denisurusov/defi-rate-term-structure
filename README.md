@@ -1,10 +1,10 @@
 # DeFi Rate Term-Structure System
 
-Importing the fixed-income yield-curve discipline into DeFi, where interest-rate data points exist (staking yields, tokenized T-bills, lending rates, tokenized-yield markets) but no agreed risk-free anchor and no coherent curve connect them. The raw ingredients exist; the term structure does not.
+Importing the fixed-income yield-curve discipline into DeFi, where interest-rate data points exist (staking yields, tokenized T-bills, lending rates, tokenized-yield markets) but no agreed risk-free anchor and no coherent curve connect them. The raw ingredients exist (we'd need to choose which ones to use); the term structure does not.
 
 ## The thesis
 
-A conventional curve assumes one unit of account, uniform instrument quality, and observed prices across all maturities. On-chain, all three fail at once. The result is not a worse curve — it is a different object: a **term-structure system**. Being honest about that distinction is the source of credibility with a fixed-income desk head.
+A conventional curve assumes one unit of account, uniform instrument quality, and observed prices across all maturities. On-chain, all three fail at once. The result is not a worse curve — it is a different object: a **term-structure system**.
 
 ## The framework — Frame / Strip / Zone / Basis
 
